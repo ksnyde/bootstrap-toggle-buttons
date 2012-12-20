@@ -1,4 +1,4 @@
-!function ($) {
+(function ($) {
   "use strict";
   // version: 2.8.2
   // by Mattia Larentis - follow me on twitter! @SpiritualGuru
@@ -284,4 +284,4 @@
       }
     }
   };
-}($);
+})(jQuery);
